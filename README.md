@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# React-Counter
+
+This is a simple counter app made in React.
+
+![image](https://user-images.githubusercontent.com/78540652/123548706-36259200-d766-11eb-9dcb-96b3011bc41a.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
